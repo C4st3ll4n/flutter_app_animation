@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+
+![Gif](https://github.com/C4st3ll4n/flutter_app_animation/blob/master/WhatsApp%20Video%202020-09-23%20at%2014.41.43.mp4)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
